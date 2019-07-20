@@ -91,3 +91,5 @@ https://www.google.com/url?q=https://www.khanacademy.org/economics-finance-domai
 
 Contributing
 ------------
+Please see [CONTRIBUTING.md](https://github.com/cviejom/Investment-and-Trading/blob/master/CONTRIBUTING.md).
+
