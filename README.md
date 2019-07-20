@@ -92,15 +92,15 @@ https://www.google.com/url?q=https://www.khanacademy.org/economics-finance-domai
 
 Contributing
 ------------
-Please see [LICENSE](https://github.com/cviejom/Investment-and-Trading/blob/master/LICENSE).
+Please see [CONTRIBUTING.md](https://github.com/cviejom/Investment-and-Trading/blob/master/CONTRIBUTING.md).
 
 Licence
 -------
 The MIT License (MIT)
 Copyright (c) 2019, cviejom
 May be redistributed under the terms specified in the LICENSE file.
-[CONTRIBUTING.md](https://github.com/cviejom/Investment-and-Trading/blob/master/CONTRIBUTING.md).
 
+Please see [LICENSE](https://github.com/cviejom/Investment-and-Trading/blob/master/LICENSE).
 
 About this Project
 ------------------
