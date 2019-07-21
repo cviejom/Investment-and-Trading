@@ -1,4 +1,6 @@
-Investment-and-Trading
+
+
+Investment-and-Trading [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 ==============================
 
 Stock market analysis/prediction is one of the most challenging fields to estimate due to the multi-dimensionality and complexity of the inputs. There can be many factors involved in the calculations varying from multiple company/competitor interactions and competition, public perception, rational and irrational behaviour of traders and many others, the combinations of all these aspects together make price volatile and challenging to predict.
