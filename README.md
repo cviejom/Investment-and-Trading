@@ -2,12 +2,10 @@
 
 Investment-and-Trading [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/cviejom/Investment-and-Trading/blob/master/LICENSE) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://naereen.github.io/badges/)
 ==============================
-
-Stock market analysis/prediction is one of the most challenging fields to estimate due to the multi-dimensionality and complexity of the inputs. There can be many factors involved in the calculations varying from multiple company/competitor interactions and competition, public perception, rational and irrational behaviour of traders and many others, the combinations of all these aspects together make price volatile and challenging to predict.
-
+This project, consists on building a stock price predictor that takes daily trading data over a certain date range as input, and outputs projected estimates for given query dates. Note that the inputs will contain multiple metrics, such as opening price (Open), highest price the stock traded at (High), how many stocks were traded (Volume) and closing price adjusted for stock splits and dividends (Adjusted Close); your system only needs to predict the Adjusted Close price.
 
 Project Organization
-------------
+--------------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -60,9 +58,9 @@ Project Organization
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
 
-# Investment and Trading
-### Machine Learning for Stock Market Investing
-This project, consists on building a stock price predictor that takes daily trading data over a certain date range as input, and outputs projected estimates for given query dates. Note that the inputs will contain multiple metrics, such as opening price (Open), highest price the stock traded at (High), how many stocks were traded (Volume) and closing price adjusted for stock splits and dividends (Adjusted Close); your system only needs to predict the Adjusted Close price.
+Machine Learning for Stock Market Investing
+-------------------------------------------
+Stock market analysis/prediction is one of the most challenging fields to estimate due to the multi-dimensionality and complexity of the inputs. There can be many factors involved in the calculations varying from multiple company/competitor interactions and competition, public perception, rational and irrational behaviour of traders and many others, the combinations of all these aspects together make price volatile and challenging to predict.
 
 Data
 ----
