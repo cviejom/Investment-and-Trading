@@ -79,6 +79,8 @@ Look for an API endpoint/library function that lets you obtain daily stock value
 
 Project Details
 ---------------
+Detailes information about the project capstone proposal can be found here <br> Please see [PROPOSAL.md](https://github.com/cviejom/Investment-and-Trading/blob/master/PROPOSAL.md).
+
 https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/pub
 
 Project Resources
