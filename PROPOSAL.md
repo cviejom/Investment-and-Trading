@@ -102,15 +102,13 @@ The persistence algorithm uses the value at the previous time step (t-1) to pred
 After our machine learning model has been trained is quite important  to assess how well the model it is able to capture patterns and predict, in order to diagnostic our model we will utilize evaluation metrics and residual diagnostics
 
 For our model we will utilize:
-1. **RMSE:** <br> Root mean squared error, this metric is typically used in regression problems and works quite well as an indicator of performance 
-<p style='text-align: center;'> 
-$RMSE = \sqrt{MSE}$ 
-</p>
+1. **RMSE:** <br> Root mean squared error, this metric is typically used in regression problems and works quite well as an indicator of performance <br>
+RMSE = sqrt(MSE)
 
-2. **MAPE:** <br> Mean absolute percentage error, it is scale-independent and represents the ratio of error to actual values as a percent
-<p style='text-align: center;'> 
-$MAPE = mean|\frac{e_t}{y_t}|$
-</p>
+
+2. **MAPE:** <br> Mean absolute percentage error, it is scale-independent and represents the ratio of error to actual values as a percent <br> 
+MAPE = mean|e_t/y_t|
+
 While evaluation metrics help determine how close the fitted values are to the actual ones, they do not evaluate whether the model properly fits the time series. Instead, the residuals are a good way to evaluate this
 
 1. The residuals are uncorrelated (Acf = 0)
