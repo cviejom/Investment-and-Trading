@@ -90,11 +90,11 @@ https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/
 Project Resources
 -----------------
 Courses
-Machine Learning for Trading, Tucker Balch (Georgia Tech and Udacity): https://www.google.com/url?q=https://www.udacity.com/course/machine-learning-for-trading--ud501&sa=D&ust=1562198292357000
+Machine Learning for Trading, Tucker Balch (Georgia Tech and Udacity):<br> https://www.google.com/url?q=https://www.udacity.com/course/machine-learning-for-trading--ud501&sa=D&ust=1562198292357000
 
-Stocks and Bonds, Khan Academy: https://www.google.com/url?q=https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds&sa=D&ust=1562198292358000
+Stocks and Bonds, Khan Academy:<br> https://www.google.com/url?q=https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds&sa=D&ust=1562198292358000
 
-Cookiecutter Data Science: https://drivendata.github.io/cookiecutter-data-science/
+Cookiecutter Data Science:<br> https://drivendata.github.io/cookiecutter-data-science/
 
 Contributing
 ------------
