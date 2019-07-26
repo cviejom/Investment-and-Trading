@@ -69,7 +69,7 @@ Data
 There are several open sources for historical stock price data that could be used. The data utilised in the project can be downloaded from the folowing **Amazon S3 Storage**
 Please utilize this link [stock market data.csv](https://investment-and-trading-udacity.s3-us-west-2.amazonaws.com/JPM+2009-2019.csv). <br>
 
-If more information is required can extraced from the following location:
+If more information is required can extraced from the following location:<br>
 https://ca.finance.yahoo.com/quote/JPM/history?p=JPM
 
 
