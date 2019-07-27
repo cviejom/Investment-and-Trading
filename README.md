@@ -84,7 +84,7 @@ https://www.quandl.com/<br>
 Project Details
 ---------------
 Detailed information about the project **Capstone Proposal** can be found here [PROPOSAL.md](https://github.com/cviejom/Investment-and-Trading/blob/master/PROPOSAL.md).
-
+More information about the requirements of the solution can be found here:<br>
 https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/pub
 
 Project Resources
