@@ -48,3 +48,7 @@ For our model we will utilize:
 * MAPE: Mean absolute percentage error, it is scale-independent and represents the ratio of error to actual values as a percent <br>
     MAPE = mean et /yt
 
+### Analysis
+#### Data Exploration
+
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
