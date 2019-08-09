@@ -37,3 +37,14 @@ The goal is to create a stock market prediction model the task involved are the 
 2. Train a time series regressor that can predict the stock price for n days in the future
 3. Submit the trained model for hosting in order to provide predictions
 4. Invoke the endpoint for predictions, returning value of the stock the next day
+
+#### Metrics
+
+After our machine learning model has been trained is quite important  to assess how well the model it is able to capture patterns and predict, in order to diagnostic our model we will utilize evaluation metrics and residual diagnostics
+For our model we will utilize:
+
+* RMSE: Root mean squared error, this metric is typically used in regression problems and works quite well as an indicator of performance <br>
+    RMSE = MSE
+* MAPE: Mean absolute percentage error, it is scale-independent and represents the ratio of error to actual values as a percent <br>
+    MAPE = mean et /yt
+
