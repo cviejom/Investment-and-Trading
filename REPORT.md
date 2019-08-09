@@ -22,3 +22,18 @@ https://ca.finance.yahoo.com/ is a platform that provides  It provides financial
 
 The data that we will use is from J.P. Morgan Chase & Co.  we are planning to utilize a total of 10 years of data were 7 years will be used for training and 3 years for validation and testing
 the data can be obtained with the following link. https://ca.finance.yahoo.com/quote/JPM?p=JPM
+
+#### Problem Statement
+
+Due to the multi-dimensionality and complexity of the problem the main objective of this capstone project is to provide a machine learning model that utilizes state of the art algorithms, historical stock market data of a public trade company to predict future trends. 
+
+We will start simple utilizing one single attribute and expand to increased complexity by incorporating more inputs, moving from simple algorithms like linear regression to advanced techniques like LSTM Networks.  
+
+To make machine learning predictions quantifiable, measurable and replicable, we will define the datasets utilized and provide access to them, select a well-known performance metric to quantify improvements over a baseline model and provide the codebase (hosted on GitHub) to replicate the results.
+
+The goal is to create a stock market prediction model the task involved are the following:
+
+1. Select a dataset from the financial sites described previously
+2. Train a time series regressor that can predict the stock price for n days in the future
+3. Submit the trained model for hosting in order to provide predictions
+4. Invoke the endpoint for predictions, returning value of the stock the next day
