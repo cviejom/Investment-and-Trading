@@ -14,10 +14,10 @@ I believe by building a system that can accurately prognosticate stock market va
 
 We will be using statistical figures to identify trends on the market, the datasets utilized will be obtained from 
 
-*Quandl* 
+*Quandl*<br> 
 https://www.quandl.com/ is a platform source for financial, economic, and alternative datasets, serving investment professionals 
 
-*Yahoo! Finance* 
+*Yahoo! Finance*<br> 
 https://ca.finance.yahoo.com/ is a platform that provides  It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
 
 The data that we will use is from J.P. Morgan Chase & Co.  we are planning to utilize a total of 10 years of data were 7 years will be used for training and 3 years for validation and testing
