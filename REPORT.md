@@ -1,6 +1,6 @@
 # Machine Learning for Stock Market Investing
 ## Capstone Project / August 08 - 2019
-### Carlos Viejo
+### Carlos Viejo M.
 
 ### Definition
 #### Project Overview
@@ -14,10 +14,10 @@ I believe by building a system that can accurately prognosticate stock market va
 
 We will be using statistical figures to identify trends on the market, the datasets utilized will be obtained from 
 
-Quandl 
+*Quandl* 
 https://www.quandl.com/ is a platform source for financial, economic, and alternative datasets, serving investment professionals 
 
-Yahoo! Finance 
+*Yahoo! Finance* 
 https://ca.finance.yahoo.com/ is a platform that provides  It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
 
 The data that we will use is from J.P. Morgan Chase & Co.  we are planning to utilize a total of 10 years of data were 7 years will be used for training and 3 years for validation and testing
@@ -44,9 +44,9 @@ After our machine learning model has been trained is quite important  to assess 
 For our model we will utilize:
 
 * RMSE: Root mean squared error, this metric is typically used in regression problems and works quite well as an indicator of performance <br>
-    RMSE = MSE
+    *RMSE = MSE*
 * MAPE: Mean absolute percentage error, it is scale-independent and represents the ratio of error to actual values as a percent <br>
-    MAPE = mean et /yt
+    *MAPE = mean (et /yt)*
 
 ### Analysis
 #### Data Exploration
