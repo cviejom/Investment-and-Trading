@@ -54,3 +54,6 @@ For our model we will utilize:
 The  J.P. Morgan Chase & Co. contains 10 years of historical data from 2009-01-02 to 2019-07-19 this information is aggregated in daily bases with a  total amount of records of 2654 rows containing 7 columns of information in regards to the stock value, the datasets contain the following fields and variable types.
 
 Most of the variables contained in the datasets are floats numeric type. with the exception of the date this shouldn't be a concern because the date variable will not be considered to train the model, the selected target variable is Close price and we will be predicting the stock price one day into the future, quick statistical analysis of the variables shows most of the values within acceptable ranges for the model, pre-processing steps will be required for standardization of the data, to increase accuracy on the model and avoid impacts due to data variable ranges.
+
+In regards to data integrity and validation, there are not NaNs values in the dataset or any other significant problem that can be observed
+
