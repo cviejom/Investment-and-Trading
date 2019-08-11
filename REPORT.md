@@ -51,4 +51,4 @@ For our model we will utilize:
 ### Analysis
 #### Data Exploration
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+The  J.P. Morgan Chase & Co. contains 10 years of historical data from 2009-01-02 to 2019-07-19 this information is aggregated in daily bases with a  total amount of records of 2654 rows containing 7 columns of information in regards to the stock value, the datasets contain the following fields and variable types.
