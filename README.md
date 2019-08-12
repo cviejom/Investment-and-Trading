@@ -4,7 +4,7 @@ Investment-and-Trading [![GitHub license](https://img.shields.io/github/license/
 This project, consists on building a **Stock Price Predictor** that takes daily trading data over a certain date range as input, and outputs projected estimates for given dates. Note that the inputs will contain multiple metrics, such as **opening price** (Open), **highest price** the stock traded at (High), **stock volume** how many stocks were traded (Volume) and **closing price** adjusted for stock splits and dividends (Adjusted Close); our system will predict the **Adjusted Close Price**.
 
 
-You can read the **Capstone Project Report** in the following file: [Project Final Report](https://github.com/cviejom/Investment-and-Trading/blob/master/reports/documents/Project%20Report.pdf) <br>
+You can read the **Project Report** in the following file: [Project Final Report](https://github.com/cviejom/Investment-and-Trading/blob/master/reports/documents/Project%20Report.pdf) <br>
 
 You can read the **Capstone Project Proposal** in the following file: [Project Capstone Proposal](https://github.com/cviejom/Investment-and-Trading/blob/master/PROPOSAL.md) <br>
 The pdf version can be located here [Project Capstone Proposal PDF Version](https://github.com/cviejom/Investment-and-Trading/blob/master/reports/documents/Capstone%20Proposal.pdf)
